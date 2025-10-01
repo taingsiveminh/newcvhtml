@@ -1,0 +1,8 @@
+  .cv-photo {
+      float: right; /* move image to right */
+      width: 4cm;
+      height: 6cm;
+      border: 2px solid #000; /* border like ID photo */
+      object-fit: cover; /* crop nicely */
+      margin: 10px;
+    }
